@@ -44,6 +44,7 @@ I am a creative🎡, time-punctual👩‍🎓, and goal-oriented web designer an
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="Virtual Private Server" src="https://img.shields.io/badge/VPS-0081CB.svg?logo=Virtual%20Private%20Server&logoColor=white"></a>
+      <a href="#"><img alt="WP Engine" src ="https://img.shields.io/badge/WPEngine-0ECAD4.svg?logo=wpengine&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
@@ -55,6 +56,7 @@ I am a creative🎡, time-punctual👩‍🎓, and goal-oriented web designer an
     <a href="#"><img alt="cPanel" src="https://img.shields.io/badge/cPanel-FF6F00.svg?logo=cPanel&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Constellix" src="https://img.shields.io/badge/Constellix-0174c3.svg?logo=constellix&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
