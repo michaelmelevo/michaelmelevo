@@ -43,6 +43,7 @@ I am a creative🎡, time-punctual👩‍🎓, and goal-oriented web designer an
 <p>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="SiteGround" src ="https://img.shields.io/badge/SiteGround-96cb4c.svg?logo=siteground&logoColor=white"></a>
       <a href="#"><img alt="Virtual Private Server" src="https://img.shields.io/badge/VPS-0081CB.svg?logo=Virtual%20Private%20Server&logoColor=white"></a>
       <a href="#"><img alt="WP Engine" src ="https://img.shields.io/badge/WPEngine-0ECAD4.svg?logo=wpengine&logoColor=white"></a>
 </p>
