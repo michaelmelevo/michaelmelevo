@@ -14,7 +14,7 @@ Hi, I'm Michael Melevo!
 
 <hr/>
 <samp>
-I am a creative🎡, time-punctual👩‍🎓, and goal-oriented web designer and developer👩‍💻 with a strong work ethic🙇‍♀️ and a passion for crafting visually appealing and functional websites. I bring high energy🤹‍♀️ and excellent communication skills👐 to every project, ensuring a seamless user experience while maintaining meticulous attention🕵️‍♀️ to detail and efficient code.
+I am a highly creative🎡, punctual👩‍🎓, and goal-oriented web designer and developer👩‍💻 with a strong work ethic🙇‍♀️ and a passion for crafting visually appealing and functional websites. I bring high energy🤹‍♀️ and excellent communication skills👐 to every project, ensuring a seamless user experience while maintaining meticulous attention🕵️‍♀️ to detail and efficient code.
 </samp>
 
 ## 🛠️ My Favorite Tools
